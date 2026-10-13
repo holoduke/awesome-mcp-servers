@@ -175,6 +175,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Langfuse Prompt Management](https://github.com/langfuse/mcp-server-langfuse)** - Open-source tool for collaborative editing, versioning, evaluating, and releasing prompts.
 - **[LINE Official Account](https://github.com/line/line-bot-mcp-server)** - Integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 - **[Lingo.dev](https://github.com/lingodotdev/lingo.dev/blob/main/mcp.md)** - Make your AI agent speak every language on the planet, using [Lingo.dev](https://lingo.dev) Localization Engine.
+- **[LiveScore](https://github.com/holoduke/livescore-mcp)** - Real-time football (soccer) scores, fixtures, standings, top scorers, head-to-head records, teams and players from 1000+ competitions. Free hosted endpoint at [livescoremcp.com](https://livescoremcp.com), no API key required.
 - **[Linked API](https://github.com/Linked-API/linkedapi-mcp.git)** - MCP server that lets AI assistants control LinkedIn accounts and retrieve real-time data with [Linked API](https://linkedapi.io).
 - **[Mailgun](https://github.com/mailgun/mailgun-mcp-server)** - Interact with Mailgun API.
 - **[MailSandbox](https://github.com/btafoya/mailsandbox)** - MailSandbox (a fork of Mailpit) is a fast, zero-dependency email testing tool & API with a web UI, SMTP server, Postmark API emulation, and MCP server for AI-assisted debugging.
